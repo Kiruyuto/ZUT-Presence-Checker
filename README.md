@@ -1,5 +1,5 @@
 # ZUT-Presence-Checker
-Simple puppeteer script written in like 40 minutes to check how many times you were absent during classes! (Because ["e-edziakant"](https://edziekanat.zut.edu.pl) doesnt have this feature ¯\\\_(ツ)\_/¯)
+Simple puppeteer script written in like 40 minutes to check how many times you were absent during classes! (Because ["e-edziakant"](https://edziekanat.zut.edu.pl) doesnt have this feature ¯\\\_(ツ)\_/¯ )
 
 <details>
   <summary> How does it work? - Example image </summary>
